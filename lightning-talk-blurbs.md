@@ -20,5 +20,7 @@ Join Schalk and Dani as they pull back the curtain on this (see what we did ther
 
 # Alicia de Wet
 
+## Sending Email without a backend
+
 Have you ever had to send email from a React site without introducing a backend or serverless solution, such as AWS Lambda?
 Join Alicia as she briefly talks through a recent project and how she implemented a solution to send email from a site using EMailJS and Mailgun.
