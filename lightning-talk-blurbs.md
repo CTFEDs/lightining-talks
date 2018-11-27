@@ -24,3 +24,11 @@ Join Schalk and Dani as they pull back the curtain on this (see what we did ther
 
 Have you ever had to send email from a React site without introducing a backend or serverless solution, such as AWS Lambda?
 Join Alicia as she briefly talks through a recent project and how she implemented a solution to send email from a site using EMailJS and Mailgun.
+
+# Pi Delport
+
+## Flexbox layout: Small, simple, responsive, robust
+
+Do you still reach for the CSS `float` and `clear` properties to position and align elements? There is a better way!
+
+This talk introduces the flexbox layout model, and shows how you can use it to declare layouts that are simple to reason about, responsive to change, and robust under a wide variety of conditions.
